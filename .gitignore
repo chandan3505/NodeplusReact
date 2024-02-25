@@ -1,0 +1,24 @@
+# Ignore compiled files
+*.o
+*.out
+*.class
+
+# Ignore dependencies
+/node_modules
+
+
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+
+
+
+
+
+
+
+
+
+
